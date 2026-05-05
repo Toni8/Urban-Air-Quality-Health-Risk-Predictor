@@ -37,7 +37,6 @@ The goal is to flag days where air quality may become dangerous, so users can ac
 - Public-domain EPA data plus free OpenAQ data for strong portfolio credibility.
 - Class-imbalance aware modeling for rare but important at-risk days.
 - Visually polished Streamlit app with trend charts, risk controls, and clear alert logic.
-- Portfolio-ready documentation, badges, stats, and screenshots.
 
 ---
 
