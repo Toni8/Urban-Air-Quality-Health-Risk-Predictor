@@ -122,6 +122,8 @@ Urban-Air-Quality-Health-Risk-Predictor/
 
 | Source | Link | Type | License |
 |---|---|---|---|
+| EPA AirData 2022 | [daily_aqi_by_county_2022.zip](https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2022.zip) | Bulk CSV | Public Domain |
+| EPA AirData 2023 | [daily_aqi_by_county_2023.zip](https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2023.zip) | Bulk CSV | Public Domain |
 | EPA AirData 2024 | [daily_aqi_by_county_2024.zip](https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2024.zip) | Bulk CSV | Public Domain |
 | EPA AirData 2025 | [daily_aqi_by_county_2025.zip](https://aqs.epa.gov/aqsweb/airdata/daily_aqi_by_county_2025.zip) | Bulk CSV | Public Domain |
 | OpenAQ API v3 | [api.openaq.org/v3](https://api.openaq.org/v3/) | Free API | CC BY 4.0 |
