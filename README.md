@@ -21,23 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Sihle_Kalolo/Urban-Air-Quality-Health-Risk-Predictor?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/Sihle_Kalolo/Urban-Air-Quality-Health-Risk-Predictor?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/Sihle_Kalolo/Urban-Air-Quality-Health-Risk-Predictor?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Sihle_Kalolo/Urban-Air-Quality-Health-Risk-Predictor?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/Sihle_Kalolo/Urban-Air-Quality-Health-Risk-Predictor?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sihle_Kalolo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00C2FF&icon_color=00C2FF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sihle_Kalolo&layout=compact&theme=tokyonight&hide_border=true&title_color=00C2FF" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sihle_Kalolo&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
 ---
 
 ## ⚡ Overview
@@ -186,18 +169,17 @@ These features help the model detect patterns that precede dangerous air-quality
 
 ### Streamlit dashboard
 <p align="center">
-  <img src="./images/Screenshot 2026-05-04 164031.png" alt="Prediction screenshot"width="100%" />
+  <img src="images/dashboard.png" width="100%" />
 </p>
 
 ### Prediction view
 <p align="center">
-  <img src="./images/Screenshot 2026-05-04 164154.png" alt="Trend analysis screenshot"
-   width="100%" />
+  <img src="images/prediction.png" width="100%" />
 </p>
 
 ### Trend analysis
 <p align="center">
- <img src="./images/Screenshot 2026-05-04 164227.png" alt="Additional app screenshot" width="100%" />
+  <img src="images/trends.png" width="100%" />
 </p>
 ---
 
